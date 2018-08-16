@@ -1,0 +1,6 @@
+C:\Users\abuzer\Documents\SharpDevelop Projects\tetris\tetris\obj\Debug\tetris.csprojResolveAssemblyReference.cache
+C:\Users\abuzer\Documents\SharpDevelop Projects\tetris\tetris\bin\Debug\tetris.exe.config
+C:\Users\abuzer\Documents\SharpDevelop Projects\tetris\tetris\bin\Debug\tetris.exe
+C:\Users\abuzer\Documents\SharpDevelop Projects\tetris\tetris\bin\Debug\tetris.pdb
+C:\Users\abuzer\Documents\SharpDevelop Projects\tetris\tetris\obj\Debug\tetris.exe
+C:\Users\abuzer\Documents\SharpDevelop Projects\tetris\tetris\obj\Debug\tetris.pdb
